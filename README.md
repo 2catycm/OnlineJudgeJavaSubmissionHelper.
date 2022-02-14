@@ -148,11 +148,11 @@ public class ProblemA_Sorting {
 
 - 使用前
 
-![image-20220214004033282](README.assets\image-20220214004033282.png)
+![image-20220214004033282](./README.assets\image-20220214004033282.png)
 
 - 使用后
 
-  ![image-20220214004126987](README.assets\image-20220214004126987.png)
+  ![image-20220214004126987](./README.assets\image-20220214004126987.png)
 
   可以看到，OJReader和OJWriter 所依赖的系统类，也自动抄写到了最上方，remove package后应该就正常了。
 
@@ -185,7 +185,7 @@ public class ProblemA_Sorting {
 #### OJ提交Release版本代码，本地使用Debug版本代码进行调试
 有时候我们会遇到这样的情况
 
-![image-20220214004543620](README.assets\image-20220214004543620.png)
+![image-20220214004543620](./README.assets\image-20220214004543620.png)
 
 算法的某一步我们怀疑出现了问题，因此通过抛出异常，或者打印一些值来Debug。
 
