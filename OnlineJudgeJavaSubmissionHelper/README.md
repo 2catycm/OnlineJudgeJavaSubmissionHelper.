@@ -1,4 +1,4 @@
-﻿﻿﻿# Online Judge Java Submission Helper
+﻿# Online Judge Java Submission Helper
 > Java OJ 自动提交助手,  叶璨铭: 12011404@mail.sustech.edu.cn
 > 
 > **警告:** 该项目未来不再更新，请在本README文档的 `项目发展` 一栏查看本项目的后继项目: `OneJava`
@@ -41,7 +41,7 @@
 ## 快速入门
 `Java OJ 自动提交助手`的工作流程十分简单：
 
-![workflow.png](./readme-assets/workflow.png)
+![workflow.png](./README.assets/workflow.png)
 
 ### 0.导入Java文件
 
