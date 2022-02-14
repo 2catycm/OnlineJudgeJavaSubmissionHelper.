@@ -148,11 +148,11 @@ public class ProblemA_Sorting {
 
 - 使用前
 
-![image-20220214004033282](D:\002_计算机开发\LP数据结构与算法分析\OnlineJudgeJavaSubmissionHelper\OnlineJudgeJavaSubmissionHelper\README.assets\image-20220214004033282.png)
+![image-20220214004033282](README.assets\image-20220214004033282.png)
 
 - 使用后
 
-  ![image-20220214004126987](D:\002_计算机开发\LP数据结构与算法分析\OnlineJudgeJavaSubmissionHelper\OnlineJudgeJavaSubmissionHelper\README.assets\image-20220214004126987.png)
+  ![image-20220214004126987](README.assets\image-20220214004126987.png)
 
   可以看到，OJReader和OJWriter 所依赖的系统类，也自动抄写到了最上方，remove package后应该就正常了。
 
@@ -185,7 +185,7 @@ public class ProblemA_Sorting {
 #### OJ提交Release版本代码，本地使用Debug版本代码进行调试
 有时候我们会遇到这样的情况
 
-![image-20220214004543620](D:\002_计算机开发\LP数据结构与算法分析\OnlineJudgeJavaSubmissionHelper\OnlineJudgeJavaSubmissionHelper\README.assets\image-20220214004543620.png)
+![image-20220214004543620](README.assets\image-20220214004543620.png)
 
 算法的某一步我们怀疑出现了问题，因此通过抛出异常，或者打印一些值来Debug。
 
@@ -230,7 +230,7 @@ public class ProblemA_Sorting {
 - 没有自动连接OJ网站提交题目的功能
 - 本项目的GUI十分简陋，且没有其他终端接口、java api等。
 
-的确，本项目核心代码其实是由[2catycm](https://github.com/2catycm)在一个晚上很短时间内随便写来用用的，所以对于功能、实现、可扩展性等都没有一个比较好的思考。不过对大部分情况已经够用了。
+的确，本项目核心代码其实是由 [2catycm](https://github.com/2catycm) 在一个晚上很短时间内随便写来用用的，所以对于功能、实现、可扩展性等都没有一个比较好的思考。不过对大部分情况已经够用了。
 
 因此，为了实现更多好玩的功能，我们有以下新的思路
 
@@ -243,7 +243,7 @@ public class ProblemA_Sorting {
 
 为此，我们已经在讨论开发下一代Java项目智能聚合工具[OneJava](https://github.com/2catycm/OneJava)
 
-该工具将作为IntelliJ IDEA插件发布。为了开发合适的算法实现我们的功能，我们还在还有一个项目**[JOJSubmitter](https://github.com/CutieDeng/JOJSubmitter)**作为下一代工具的后端开发， 其中README也提到了我们下一步要开发的工具的后端规范。
+该工具将作为IntelliJ IDEA插件发布。为了开发合适的算法实现我们的功能，我们还在还有一个项目 **[JOJSubmitter](https://github.com/CutieDeng/JOJSubmitter)** 作为下一代工具的后端开发， 其中README也提到了我们下一步要开发的工具的后端规范。
 
 欢迎来这两个项目进行贡献与收藏！
 
